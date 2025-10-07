@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+.env
+
+# Кэш
+__pycache__/
+*.pyc
+
+# Логи и отчёты
+*.log
+allure-results/
+reports/
+
+# IDE
+.vscode/
+.idea/
+
+# Webdrivers / бинарники
+chromedriver
+chromedriver.exe
+
+# pytest cache
+pytest_cache/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
